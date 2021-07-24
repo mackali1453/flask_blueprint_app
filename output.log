@@ -1,0 +1,271 @@
+2021-07-24 13:29:15,983:distance between moscow ring road and fethiye is 2204.1460332561987
+2021-07-24 13:29:15,985:127.0.0.1 - - [24/Jul/2021 13:29:15] "GET /dashboard/fethiye HTTP/1.1" 200 -
+2021-07-24 13:29:37,416:distance between moscow ring road and antalya is 2149.2143963327403
+2021-07-24 13:29:37,418:127.0.0.1 - - [24/Jul/2021 13:29:37] "GET /dashboard/antalya HTTP/1.1" 200 -
+2021-07-24 13:30:02,784: * Detected change in 'C:\\python_repository\\distance.py', reloading
+2021-07-24 13:30:02,785: * Detected change in 'C:\\python_repository\\tmp1a_o8nnc', reloading
+2021-07-24 13:30:02,788: * Detected change in 'C:\\python_repository\\distance.py', reloading
+2021-07-24 13:33:35,932: * Detected change in 'C:\\Users\\melik\\anaconda3\\envs\\geo_pandas\\Lib\\site-packages\\flask\\app.py', reloading
+2021-07-24 13:33:35,941:127.0.0.1 - - [24/Jul/2021 13:33:35] "[35m[1mGET /dashboard/mackinac%20island HTTP/1.1[0m" 500 -
+2021-07-24 13:33:35,970:127.0.0.1 - - [24/Jul/2021 13:33:35] "GET /dashboard/mackinac%20island?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-07-24 13:33:35,973:127.0.0.1 - - [24/Jul/2021 13:33:35] "GET /dashboard/mackinac%20island?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-07-24 13:33:36,315:127.0.0.1 - - [24/Jul/2021 13:33:36] "GET /dashboard/mackinac%20island?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-07-24 13:33:36,391:127.0.0.1 - - [24/Jul/2021 13:33:36] "GET /dashboard/mackinac%20island?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-07-24 13:33:36,563:127.0.0.1 - - [24/Jul/2021 13:33:36] "GET /dashboard/mackinac%20island?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-07-24 13:33:54,434:distance between moscow ring road and harlem is 7516.423832780338km
+2021-07-24 13:33:54,438:127.0.0.1 - - [24/Jul/2021 13:33:54] "GET /dashboard/harlem HTTP/1.1" 200 -
+2021-07-24 13:34:22,799:distance between moscow ring road and central park is 7520.037790909871km
+2021-07-24 13:34:22,801:127.0.0.1 - - [24/Jul/2021 13:34:22] "GET /dashboard/central%20park HTTP/1.1" 200 -
+2021-07-24 13:40:49,020:distance between moscow ring road and mkad is 0.0km
+2021-07-24 13:40:49,021:127.0.0.1 - - [24/Jul/2021 13:40:49] "GET /dashboard/mkad HTTP/1.1" 200 -
+2021-07-24 13:50:01,428:distance between moscow ring road and mkad is 0.0km
+2021-07-24 13:50:01,429:127.0.0.1 - - [24/Jul/2021 13:50:01] "GET /dashboard/mkad HTTP/1.1" 200 -
+2021-07-24 13:50:07,384:distance between moscow ring road and istanbul is 1746.4516031529733km
+2021-07-24 13:50:07,388:127.0.0.1 - - [24/Jul/2021 13:50:07] "GET /dashboard/istanbul HTTP/1.1" 200 -
+2021-07-24 13:54:24,077: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-24 13:54:39,887: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-24 13:55:02,087: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-24 13:55:22,723: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-24 13:55:45,725: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-24 13:56:02,386: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-24 13:56:20,890: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-24 19:56:49,181:distance between moscow ring road and mkad is 0.0km
+2021-07-24 19:58:49,794:distance between moscow ring road and mkad is 0.0km
+2021-07-24 19:59:28,306:distance between moscow ring road and mkad is 0.0km
+2021-07-24 20:07:50,475:distance between moscow ring road and grand kremlin palace is 17.97214812430102km
+2021-07-24 20:10:38,238:distance between moscow ring road and grand kremlin palace is 17.97214812430102km
+2021-07-24 20:12:11,281:distance between moscow ring road and grand kremlin palace is 17.97214812430102km
+2021-07-24 20:40:24,507: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-24 20:40:34,461:distance between moscow ring road and istanbul is 1746.4516031529733km
+2021-07-24 20:40:34,905:127.0.0.1 - - [24/Jul/2021 20:40:34] "[35m[1mGET /dashboard/istanbul HTTP/1.1[0m" 500 -
+2021-07-24 20:41:11,693:distance between moscow ring road and mkad is 0.0km
+2021-07-24 20:41:11,716:127.0.0.1 - - [24/Jul/2021 20:41:11] "[35m[1mGET /dashboard/mkad HTTP/1.1[0m" 500 -
+2021-07-24 20:42:11,045:distance between moscow ring road and istanbul is 1746.4516031529733km
+2021-07-24 20:42:26,767:distance between moscow ring road and istanbul is 1746.4516031529733km
+2021-07-24 20:42:46,347:distance between moscow ring road and kremlin grand palace is 17.97214812430102km
+2021-07-24 20:42:55,173:distance between moscow ring road and konya is 2011.4679259590332km
+2021-07-24 20:43:27,691:distance between moscow ring road and istanbul is 1746.4516031529733km
+2021-07-24 20:43:28,144: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-24 20:43:42,951:distance between moscow ring road and istanbul is 1746.4516031529733km
+2021-07-24 20:43:43,419: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-24 20:44:45,438:127.0.0.1 - - [24/Jul/2021 20:44:45] "[35m[1mGET /dashboard/mkad HTTP/1.1[0m" 500 -
+2021-07-24 20:44:45,473:127.0.0.1 - - [24/Jul/2021 20:44:45] "GET /dashboard/mkad?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-07-24 20:44:45,475:127.0.0.1 - - [24/Jul/2021 20:44:45] "GET /dashboard/mkad?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-07-24 20:44:45,814:127.0.0.1 - - [24/Jul/2021 20:44:45] "GET /dashboard/mkad?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-07-24 20:44:45,843:127.0.0.1 - - [24/Jul/2021 20:44:45] "GET /dashboard/mkad?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-07-24 20:44:46,077:127.0.0.1 - - [24/Jul/2021 20:44:46] "GET /dashboard/mkad?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-07-24 20:45:15,315: * Detected change in 'C:\\python_repository\\distance.py', reloading
+2021-07-24 20:45:15,330: * Detected change in 'C:\\python_repository\\tmpl0k2dxlx', reloading
+2021-07-24 20:45:15,330: * Detected change in 'C:\\python_repository\\distance.py', reloading
+2021-07-24 20:45:22,848:distance between moscow ring road and mkad is 0.0km
+2021-07-24 20:45:22,879:127.0.0.1 - - [24/Jul/2021 20:45:22] "[35m[1mGET /dashboard/mkad HTTP/1.1[0m" 500 -
+2021-07-24 20:45:22,905:127.0.0.1 - - [24/Jul/2021 20:45:22] "GET /dashboard/mkad?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-07-24 20:45:22,905:127.0.0.1 - - [24/Jul/2021 20:45:22] "GET /dashboard/mkad?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-07-24 20:45:23,247:127.0.0.1 - - [24/Jul/2021 20:45:23] "GET /dashboard/mkad?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-07-24 20:45:23,277:127.0.0.1 - - [24/Jul/2021 20:45:23] "GET /dashboard/mkad?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-07-24 20:45:23,508:127.0.0.1 - - [24/Jul/2021 20:45:23] "GET /dashboard/mkad?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-07-24 20:45:39,170: * Detected change in 'C:\\python_repository\\distance.py', reloading
+2021-07-24 20:45:39,170: * Detected change in 'C:\\python_repository\\tmpzm4v98hz', reloading
+2021-07-24 20:45:39,170: * Detected change in 'C:\\python_repository\\distance.py', reloading
+2021-07-24 20:45:46,757:127.0.0.1 - - [24/Jul/2021 20:45:46] "[35m[1mGET /dashboard/mkad HTTP/1.1[0m" 500 -
+2021-07-24 20:45:46,787:127.0.0.1 - - [24/Jul/2021 20:45:46] "GET /dashboard/mkad?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-07-24 20:45:46,788:127.0.0.1 - - [24/Jul/2021 20:45:46] "GET /dashboard/mkad?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-07-24 20:45:47,120:127.0.0.1 - - [24/Jul/2021 20:45:47] "GET /dashboard/mkad?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-07-24 20:45:47,152:127.0.0.1 - - [24/Jul/2021 20:45:47] "GET /dashboard/mkad?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-07-24 20:45:47,366:127.0.0.1 - - [24/Jul/2021 20:45:47] "GET /dashboard/mkad?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-07-24 20:46:05,575: * Detected change in 'C:\\python_repository\\distance.py', reloading
+2021-07-24 20:46:05,575: * Detected change in 'C:\\python_repository\\tmprkfufxto', reloading
+2021-07-24 20:46:05,575: * Detected change in 'C:\\python_repository\\distance.py', reloading
+2021-07-24 20:46:20,813:distance between moscow ring road and mkad is 0.0km
+2021-07-24 20:46:20,835:127.0.0.1 - - [24/Jul/2021 20:46:20] "GET /dashboard/mkad HTTP/1.1" 200 -
+2021-07-24 20:46:26,796:distance between moscow ring road and istanbul is 1746.4516031529733km
+2021-07-24 20:46:27,135:127.0.0.1 - - [24/Jul/2021 20:46:27] "GET /dashboard/istanbul HTTP/1.1" 200 -
+2021-07-24 20:46:37,307:distance between moscow ring road and kremlin grand palace is 17.97214812430102km
+2021-07-24 20:46:37,406:127.0.0.1 - - [24/Jul/2021 20:46:37] "GET /dashboard/kremlin%20grand%20palace HTTP/1.1" 200 -
+2021-07-24 20:47:55,189:distance between moscow ring road and kashirskaya plaza is 9.113506310063546km
+2021-07-24 20:47:55,214:127.0.0.1 - - [24/Jul/2021 20:47:55] "GET /dashboard/kashirskaya%20plaza HTTP/1.1" 200 -
+2021-07-24 20:49:16,523:distance between moscow ring road and klyazma river is 144.38009260374062km
+2021-07-24 20:49:16,530:127.0.0.1 - - [24/Jul/2021 20:49:16] "GET /dashboard/klyazma%20river HTTP/1.1" 200 -
+2021-07-24 20:52:14,355:distance between moscow ring road and grand kremlin palace is 17.97214812430102km
+2021-07-24 20:53:14,830:distance between moscow ring road and grand kremlin palace is 17.97214812430102km
+2021-07-24 20:57:41,701:distance between moscow ring road and grand kremlin palace is 17.97214812430102km
+2021-07-24 20:57:49,377:distance between moscow ring road and red square is 18.425867238766934km
+2021-07-24 21:03:00,748:distance between moscow ring road and grand kremlin palace is 17.97214812430102km
+2021-07-24 21:03:03,874:distance between moscow ring road and red square is 18.425867238766934km
+2021-07-24 21:03:13,278:distance between moscow ring road and St. Basil's Cathedral is 18.425867238766934km
+2021-07-24 21:04:35,361:distance between moscow ring road and grand kremlin palace is 17.97214812430102km
+2021-07-24 21:04:38,478:distance between moscow ring road and red square is 18.425867238766934km
+2021-07-24 21:04:41,575:distance between moscow ring road and St. Basil's Cathedral is 18.425867238766934km
+2021-07-24 21:05:27,415:distance between moscow ring road and grand kremlin palace is 17.97214812430102km
+2021-07-24 21:05:30,163:distance between moscow ring road and red square is 18.425867238766934km
+2021-07-24 21:05:32,895:distance between moscow ring road and St. Basil's Cathedral is 18.425867238766934km
+2021-07-24 21:06:06,861:distance between moscow ring road and grand kremlin palace is 17.97214812430102km
+2021-07-24 21:06:09,650:distance between moscow ring road and red square is 18.425867238766934km
+2021-07-24 21:06:12,385:distance between moscow ring road and St. Basil's Cathedral is 18.425867238766934km
+2021-07-24 21:06:33,258:distance between moscow ring road and grand kremlin palace is 17.97214812430102km
+2021-07-24 21:06:36,013:distance between moscow ring road and red square is 18.425867238766934km
+2021-07-24 21:06:38,892:distance between moscow ring road and St. Basil's Cathedral is 18.425867238766934km
+2021-07-24 21:06:47,335:distance between moscow ring road and 5 is 1158.3029279002762km
+2021-07-24 21:11:37,187:distance between moscow ring road and grand kremlin palace is 17.97214812430102km
+2021-07-24 21:11:40,127:distance between moscow ring road and red square is 18.425867238766934km
+2021-07-24 21:11:42,964:distance between moscow ring road and St. Basil's Cathedral is 18.425867238766934km
+2021-07-24 21:11:45,726:distance between moscow ring road and 5 is 1158.3029279002762km
+2021-07-24 21:15:29,828:distance between moscow ring road and grand kremlin palace is 17.97214812430102km
+2021-07-24 21:15:32,714:distance between moscow ring road and red square is 18.425867238766934km
+2021-07-24 21:15:35,474:distance between moscow ring road and St. Basil's Cathedral is 18.425867238766934km
+2021-07-24 21:15:37,980:distance between moscow ring road and 5 is 1158.3029279002762km
+2021-07-24 21:16:13,668:distance between moscow ring road and grand kremlin palace is 17.97214812430102km
+2021-07-24 21:16:16,440:distance between moscow ring road and red square is 18.425867238766934km
+2021-07-24 21:16:19,360:distance between moscow ring road and St. Basil's Cathedral is 18.425867238766934km
+2021-07-24 21:17:15,745:distance between moscow ring road and grand kremlin palace is 17.97214812430102km
+2021-07-24 21:17:18,548:distance between moscow ring road and red square is 18.425867238766934km
+2021-07-24 21:17:21,249:distance between moscow ring road and St. Basil's Cathedral is 18.425867238766934km
+2021-07-24 21:17:24,089:distance between moscow ring road and istanbul is 1746.4516031529733km
+2021-07-24 21:17:58,356:distance between moscow ring road and grand kremlin palace is 17.97214812430102km
+2021-07-24 21:18:01,095:distance between moscow ring road and red square is 18.425867238766934km
+2021-07-24 21:18:03,837:distance between moscow ring road and St. Basil's Cathedral is 18.425867238766934km
+2021-07-24 21:19:53,704:distance between moscow ring road and grand kremlin palace is 17.97214812430102km
+2021-07-24 21:19:56,569:distance between moscow ring road and red square is 18.425867238766934km
+2021-07-24 21:19:59,406:distance between moscow ring road and St. Basil's Cathedral is 18.425867238766934km
+2021-07-24 21:21:54,997:distance between moscow ring road and grand kremlin palace is 17.97214812430102km
+2021-07-24 21:21:57,906:distance between moscow ring road and red square is 18.425867238766934km
+2021-07-24 21:22:00,690:distance between moscow ring road and St. Basil's Cathedral is 18.425867238766934km
+2021-07-24 21:22:56,234:distance between moscow ring road and grand kremlin palace is 17.97214812430102km
+2021-07-24 21:22:59,095:distance between moscow ring road and red square is 18.425867238766934km
+2021-07-24 21:23:01,870:distance between moscow ring road and St. Basil's Cathedral is 18.425867238766934km
+2021-07-24 21:23:11,133:distance between moscow ring road and abc is 14063.39764745106km
+2021-07-24 21:30:03,973:distance between moscow ring road and grand kremlin palace is 17.97214812430102km
+2021-07-24 21:30:06,946:distance between moscow ring road and red square is 18.425867238766934km
+2021-07-24 21:30:09,782:distance between moscow ring road and St. Basil's Cathedral is 18.425867238766934km
+2021-07-24 21:30:16,281:distance between moscow ring road and Vostochny District is 22.652736326627995km
+2021-07-24 21:30:49,098: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-24 21:30:58,498:127.0.0.1 - - [24/Jul/2021 21:30:58] "GET / HTTP/1.1" 200 -
+2021-07-24 21:31:06,315:distance between moscow ring road and Vostochny District is 22.652736326627995km
+2021-07-24 21:31:06,355:127.0.0.1 - - [24/Jul/2021 21:31:06] "GET /dashboard/Vostochny%20District HTTP/1.1" 200 -
+2021-07-24 21:32:08,754:distance between moscow ring road and Lyubertsi is 9.74218860650501km
+2021-07-24 21:32:08,787:127.0.0.1 - - [24/Jul/2021 21:32:08] "GET /dashboard/Lyubertsi HTTP/1.1" 200 -
+2021-07-24 21:33:00,028:distance between moscow ring road and grand kremlin palace is 17.97214812430102km
+2021-07-24 21:33:00,120:127.0.0.1 - - [24/Jul/2021 21:33:00] "GET /dashboard/grand%20kremlin%20palace HTTP/1.1" 200 -
+2021-07-24 21:33:44,852:distance between moscow ring road and Lyubertsi is 9.74218860650501km
+2021-07-24 21:33:44,886:127.0.0.1 - - [24/Jul/2021 21:33:44] "GET /dashboard/Lyubertsi HTTP/1.1" 200 -
+2021-07-24 21:33:51,075:distance between moscow ring road and istanbul is 1746.4516031529733km
+2021-07-24 21:33:51,392:127.0.0.1 - - [24/Jul/2021 21:33:51] "GET /dashboard/istanbul HTTP/1.1" 200 -
+2021-07-24 21:34:27,150:distance between moscow ring road and Lyubertsi is 9.74218860650501km
+2021-07-24 21:34:27,184:127.0.0.1 - - [24/Jul/2021 21:34:27] "GET /dashboard/Lyubertsi HTTP/1.1" 200 -
+2021-07-24 21:34:42,252:distance between moscow ring road and grand kremlin% is 2227.344569306948km
+2021-07-24 21:34:42,706:127.0.0.1 - - [24/Jul/2021 21:34:42] "GET /dashboard/grand%20kremlin% HTTP/1.1" 200 -
+2021-07-24 21:34:51,371:distance between moscow ring road and grand kremlin palace is 17.97214812430102km
+2021-07-24 21:34:51,466:127.0.0.1 - - [24/Jul/2021 21:34:51] "GET /dashboard/grand%20kremlin%20palace HTTP/1.1" 200 -
+2021-07-24 21:35:15,407:distance between moscow ring road and grand kremlin palace is 17.97214812430102km
+2021-07-24 21:35:15,496:127.0.0.1 - - [24/Jul/2021 21:35:15] "GET /dashboard/grand%20kremlin%20palace HTTP/1.1" 200 -
+2021-07-24 21:35:24,263:distance between moscow ring road and Lyubertsi is 9.74218860650501km
+2021-07-24 21:35:24,295:127.0.0.1 - - [24/Jul/2021 21:35:24] "GET /dashboard/Lyubertsi HTTP/1.1" 200 -
+2021-07-24 21:36:00,970:distance between moscow ring road and Lyubertsi is 9.74218860650501km
+2021-07-24 21:36:01,004:127.0.0.1 - - [24/Jul/2021 21:36:01] "GET /dashboard/Lyubertsi HTTP/1.1" 200 -
+2021-07-24 21:36:13,553:distance between moscow ring road and grand kremlin palace is 17.97214812430102km
+2021-07-24 21:36:13,646:127.0.0.1 - - [24/Jul/2021 21:36:13] "GET /dashboard/grand%20kremlin%20palace HTTP/1.1" 200 -
+2021-07-24 21:38:26,050:distance between moscow ring road and grand kremlin palace is 17.97214812430102km
+2021-07-24 21:38:26,139:127.0.0.1 - - [24/Jul/2021 21:38:26] "GET /dashboard/grand%20kremlin%20palace HTTP/1.1" 200 -
+2021-07-24 21:38:54,047:distance between moscow ring road and grand kremlin palace is 17.97214812430102km
+2021-07-24 21:38:54,135:127.0.0.1 - - [24/Jul/2021 21:38:54] "GET /dashboard/grand%20kremlin%20palace HTTP/1.1" 200 -
+2021-07-24 21:39:11,353:distance between moscow ring road and grand kremlin palace is 17.97214812430102km
+2021-07-24 21:39:11,448:127.0.0.1 - - [24/Jul/2021 21:39:11] "GET /dashboard/grand%20kremlin%20palace HTTP/1.1" 200 -
+2021-07-24 21:39:29,699:distance between moscow ring road and grand kremlin palace is 17.97214812430102km
+2021-07-24 21:39:29,788:127.0.0.1 - - [24/Jul/2021 21:39:29] "GET /dashboard/grand%20kremlin%20palace HTTP/1.1" 200 -
+2021-07-24 21:40:18,964:distance between moscow ring road and red square is 18.425867238766934km
+2021-07-24 21:40:19,039:127.0.0.1 - - [24/Jul/2021 21:40:19] "GET /dashboard/red%20square HTTP/1.1" 200 -
+2021-07-24 21:41:01,680:distance between moscow ring road and red square is 18.425867238766934km
+2021-07-24 21:41:01,758:127.0.0.1 - - [24/Jul/2021 21:41:01] "GET /dashboard/red%20square HTTP/1.1" 200 -
+2021-07-24 21:41:29,451:distance between moscow ring road and grand kremlin palace is 17.97214812430102km
+2021-07-24 21:41:32,191:distance between moscow ring road and red square is 18.425867238766934km
+2021-07-24 21:41:34,913:distance between moscow ring road and St. Basil's Cathedral is 18.425867238766934km
+2021-07-24 21:41:36,853:distance between moscow ring road and Vostochny District is 22.652736326627995km
+2021-07-24 21:41:57,031:distance between moscow ring road and grand kremlin palace is 17.97214812430102km
+2021-07-24 21:41:57,123:127.0.0.1 - - [24/Jul/2021 21:41:57] "GET /dashboard/grand%20kremlin%20palace HTTP/1.1" 200 -
+2021-07-24 21:42:25,590:distance between moscow ring road and grand kremlin palace is 17.97214812430102km
+2021-07-24 21:42:27,534:distance between moscow ring road and Vostochny District is 22.652736326627995km
+2021-07-24 21:42:38,943:distance between moscow ring road and grand kremlin palace is 17.97214812430102km
+2021-07-24 21:42:41,688:distance between moscow ring road and red square is 18.425867238766934km
+2021-07-24 21:42:44,465:distance between moscow ring road and St. Basil's Cathedral is 18.425867238766934km
+2021-07-24 21:42:46,355:distance between moscow ring road and Vostochny District is 22.652736326627995km
+2021-07-24 21:43:49,942:distance between moscow ring road and grand kremlin palace is 17.97214812430102km
+2021-07-24 21:43:50,026:127.0.0.1 - - [24/Jul/2021 21:43:50] "GET /dashboard/grand%20kremlin%20palace HTTP/1.1" 200 -
+2021-07-24 21:45:36,876:distance between moscow ring road and istanbul is 1746.4516031529733km
+2021-07-24 21:45:37,359:127.0.0.1 - - [24/Jul/2021 21:45:37] "GET /dashboard/istanbul HTTP/1.1" 200 -
+2021-07-24 21:45:52,766:distance between moscow ring road and grand kremlin palace is 17.97214812430102km
+2021-07-24 21:45:52,860:127.0.0.1 - - [24/Jul/2021 21:45:52] "GET /dashboard/grand%20kremlin%20palace HTTP/1.1" 200 -
+2021-07-24 21:46:12,001: * Detected change in 'C:\\python_repository\\distance.py', reloading
+2021-07-24 21:46:12,017: * Detected change in 'C:\\python_repository\\tmp_c6zkb8i', reloading
+2021-07-24 21:46:12,017: * Detected change in 'C:\\python_repository\\distance.py', reloading
+2021-07-24 21:46:20,190:distance between moscow ring road and grand kremlin palace is 17.97214812430102km
+2021-07-24 21:46:20,325:127.0.0.1 - - [24/Jul/2021 21:46:20] "GET /dashboard/grand%20kremlin%20palace HTTP/1.1" 200 -
+2021-07-24 21:46:33,729: * Detected change in 'C:\\python_repository\\distance.py', reloading
+2021-07-24 21:46:33,729: * Detected change in 'C:\\python_repository\\tmpdmp7wbrg', reloading
+2021-07-24 21:46:33,729: * Detected change in 'C:\\python_repository\\distance.py', reloading
+2021-07-24 21:46:41,931:distance between moscow ring road and grand kremlin palace is 17.97214812430102km
+2021-07-24 21:46:42,066:127.0.0.1 - - [24/Jul/2021 21:46:42] "GET /dashboard/grand%20kremlin%20palace HTTP/1.1" 200 -
+2021-07-24 21:46:57,025: * Detected change in 'C:\\python_repository\\distance.py', reloading
+2021-07-24 21:46:57,025: * Detected change in 'C:\\python_repository\\tmpqukx92_9', reloading
+2021-07-24 21:46:57,025: * Detected change in 'C:\\python_repository\\distance.py', reloading
+2021-07-24 21:47:05,164:distance between moscow ring road and grand kremlin palace is 17.97214812430102km
+2021-07-24 21:47:05,264:127.0.0.1 - - [24/Jul/2021 21:47:05] "GET /dashboard/grand%20kremlin%20palace HTTP/1.1" 200 -
+2021-07-24 21:47:42,137: * Detected change in 'C:\\python_repository\\test.py', reloading
+2021-07-24 21:47:42,137: * Detected change in 'C:\\python_repository\\tmpo8aueao3', reloading
+2021-07-24 21:47:42,137: * Detected change in 'C:\\python_repository\\test.py', reloading
+2021-07-24 21:48:02,288:distance between moscow ring road and istanbul is 1746.4516031529733km
+2021-07-24 21:48:02,754:127.0.0.1 - - [24/Jul/2021 21:48:02] "GET /dashboard/istanbul HTTP/1.1" 200 -
+2021-07-24 21:49:04,254: * Detected change in 'C:\\python_repository\\test.py', reloading
+2021-07-24 21:49:04,254: * Detected change in 'C:\\python_repository\\tmply_tp_0a', reloading
+2021-07-24 21:49:04,254: * Detected change in 'C:\\python_repository\\test.py', reloading
+2021-07-24 21:49:17,014:distance between moscow ring road and grand kremlin palace is 17.97214812430102km
+2021-07-24 21:49:19,812:distance between moscow ring road and red square is 18.425867238766934km
+2021-07-24 21:49:22,652:distance between moscow ring road and St. Basil's Cathedral is 18.425867238766934km
+2021-07-24 21:49:25,656:distance between moscow ring road and istanbul is 1746.4516031529733km
+2021-07-24 21:49:33,658:distance between moscow ring road and st. petersburg is 653.4947200667909km
+2021-07-24 21:49:36,326:distance between moscow ring road and ankara is 1783.538498624812km
+2021-07-24 22:57:58,951: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-24 23:09:09,380:distance between moscow ring road and istanbul is 1746.4516031529733km
+2021-07-24 23:09:09,839:127.0.0.1 - - [24/Jul/2021 23:09:09] "GET /dashboard/istanbul HTTP/1.1" 200 -
+2021-07-24 23:17:43,142:distance between moscow ring road and istanbul is 1746.4516031529733km
+2021-07-24 23:17:43,603:127.0.0.1 - - [24/Jul/2021 23:17:43] "GET /dashboard/istanbul HTTP/1.1" 200 -
+2021-07-24 23:17:50,744:distance between moscow ring road and konya is 2011.4679259590332km
+2021-07-24 23:17:51,186:127.0.0.1 - - [24/Jul/2021 23:17:51] "GET /dashboard/konya HTTP/1.1" 200 -
+2021-07-24 23:18:27,510:distance between moscow ring road and kremlin grand palace is 17.97214812430102km
+2021-07-24 23:18:27,602:127.0.0.1 - - [24/Jul/2021 23:18:27] "GET /dashboard/kremlin%20grand%20palace HTTP/1.1" 200 -
+2021-07-24 23:22:41,298: * Restarting with watchdog (windowsapi)
+2021-07-24 23:23:34,755: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-24 23:24:00,088: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-24 23:25:45,499:distance between moscow ring road and kremlin grand palace is 17.97214812430102km
+2021-07-24 23:25:45,594:127.0.0.1 - - [24/Jul/2021 23:25:45] "GET /dashboard/kremlin%20grand%20palace HTTP/1.1" 200 -
+2021-07-24 23:27:56,981: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-07-24 23:27:56,981: * Running on http://192.168.1.165:5000/ (Press CTRL+C to quit)
+2021-07-24 23:28:12,080:distance between moscow ring road and kremlin grand palace is 17.97214812430102km
+2021-07-24 23:28:12,173:127.0.0.1 - - [24/Jul/2021 23:28:12] "GET /dashboard/kremlin%20grand%20palace HTTP/1.1" 200 -
+2021-07-24 23:28:20,328:127.0.0.1 - - [24/Jul/2021 23:28:20] "GET / HTTP/1.1" 200 -
+2021-07-24 23:31:51,846:127.0.0.1 - - [24/Jul/2021 23:31:51] "GET / HTTP/1.1" 200 -
+2021-07-24 23:31:52,516:127.0.0.1 - - [24/Jul/2021 23:31:52] "GET / HTTP/1.1" 200 -
+2021-07-24 23:31:53,245:127.0.0.1 - - [24/Jul/2021 23:31:53] "GET / HTTP/1.1" 200 -
+2021-07-24 23:31:53,548:127.0.0.1 - - [24/Jul/2021 23:31:53] "GET / HTTP/1.1" 200 -
+2021-07-24 23:31:53,770:127.0.0.1 - - [24/Jul/2021 23:31:53] "GET / HTTP/1.1" 200 -
+2021-07-24 23:31:59,856:127.0.0.1 - - [24/Jul/2021 23:31:59] "GET / HTTP/1.1" 200 -
+2021-07-24 23:34:47,952:distance between moscow ring road and istanbul is 1746.4516031529733km
+2021-07-24 23:34:48,455:127.0.0.1 - - [24/Jul/2021 23:34:48] "GET /dashboard/istanbul HTTP/1.1" 200 -
+2021-07-24 23:34:52,964:distance between moscow ring road and konya is 2011.4679259590332km
+2021-07-24 23:34:53,428:127.0.0.1 - - [24/Jul/2021 23:34:53] "GET /dashboard/konya HTTP/1.1" 200 -
+2021-07-24 23:34:54,302:distance between moscow ring road and konya is 2011.4679259590332km
+2021-07-24 23:34:54,746:127.0.0.1 - - [24/Jul/2021 23:34:54] "GET /dashboard/konya HTTP/1.1" 200 -
+2021-07-24 23:35:10,480:distance between moscow ring road and red square is 18.425867238766934km
+2021-07-24 23:35:10,558:127.0.0.1 - - [24/Jul/2021 23:35:10] "GET /dashboard/red%20square HTTP/1.1" 200 -
+2021-07-24 23:36:06,003:distance between moscow ring road and grand kremlin palace is 17.97214812430102km
+2021-07-24 23:36:09,238:distance between moscow ring road and red square is 18.425867238766934km
+2021-07-24 23:36:12,403:distance between moscow ring road and St. Basil's Cathedral is 18.425867238766934km
+2021-07-24 23:36:15,640:distance between moscow ring road and istanbul is 1746.4516031529733km
+2021-07-24 23:36:16,250:distance between moscow ring road and grand kremlin palace is 17.97214812430102km
+2021-07-24 23:36:19,261:distance between moscow ring road and st. petersburg is 653.4947200667909km
+2021-07-24 23:36:19,710:distance between moscow ring road and red square is 18.425867238766934km
+2021-07-24 23:36:22,450:distance between moscow ring road and ankara is 1783.538498624812km
+2021-07-24 23:36:22,967:distance between moscow ring road and St. Basil's Cathedral is 18.425867238766934km
+2021-07-24 23:36:26,282:distance between moscow ring road and istanbul is 1746.4516031529733km
+2021-07-24 23:36:29,396:distance between moscow ring road and st. petersburg is 653.4947200667909km
+2021-07-24 23:36:32,239:distance between moscow ring road and ankara is 1783.538498624812km
