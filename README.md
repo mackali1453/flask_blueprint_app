@@ -8,7 +8,7 @@ Use the package manager pip to install requirements. But before that
 a python environment must be created and packages must be installed in it. You can create environment and install packages via anaconda navigator.
 
 ```bash
-# You dont have to install those packages if you use docker. There is a requirements.txt for that.
+
 pip install geopandas
 pip install networkx
 pip install flask
