@@ -1,6 +1,6 @@
 # flask blueprint app
 
-flask blueprint app is a Python app for calculating distance between MKAD and input address.
+flask blueprint app is a Python app for calculating distance between moscow ring road and input address.
 
 ## Installation
 
