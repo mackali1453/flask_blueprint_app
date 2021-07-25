@@ -24,7 +24,7 @@ docker build --tag python-docker .
 docker run -p 5000:5000 python-docker
 
 ```
-## Usage with spyder(with created environment and installed packages) ide
+## Usage with spyder(with created environment) ide
 Open create_app.py and run it.
 
 After running your app go to your browser and type "http://localhost:5000/". This routes to welcome page.
