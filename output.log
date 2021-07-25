@@ -269,3 +269,10 @@
 2021-07-24 23:36:26,282:distance between moscow ring road and istanbul is 1746.4516031529733km
 2021-07-24 23:36:29,396:distance between moscow ring road and st. petersburg is 653.4947200667909km
 2021-07-24 23:36:32,239:distance between moscow ring road and ankara is 1783.538498624812km
+2021-07-25 12:38:14,910:distance between moscow ring road and istanbul is 1746.4516031529733km
+2021-07-25 12:38:15,364:127.0.0.1 - - [25/Jul/2021 12:38:15] "GET /dashboard/istanbul HTTP/1.1" 200 -
+2021-07-25 12:40:45,304:127.0.0.1 - - [25/Jul/2021 12:40:45] "GET / HTTP/1.1" 200 -
+2021-07-25 12:42:05,131:distance between moscow ring road and st. petersburg is 653.4947200667909km
+2021-07-25 12:42:05,310:127.0.0.1 - - [25/Jul/2021 12:42:05] "GET /dashboard/st.%20petersburg HTTP/1.1" 200 -
+2021-07-25 12:43:19,655:distance between moscow ring road and istanbul is 1746.4516031529733km
+2021-07-25 12:43:20,092:127.0.0.1 - - [25/Jul/2021 12:43:20] "GET /dashboard/istanbul HTTP/1.1" 200 -
