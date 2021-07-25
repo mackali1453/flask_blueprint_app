@@ -27,5 +27,6 @@ docker run -p 5000:5000 python-docker
 ## Usage with spyder(with created environment) ide
 Open create_app.py and run it.
 
-After running your app go to your browser and type "http://localhost:5000/". This routes to welcome page.
+## After running app
+Go to your browser and type "http://localhost:5000/". This routes to welcome page.
 Afterwards go to /dashboard route and type your adress as an endpoint such as "http://localhost:5000/dashboard/istanbul"
